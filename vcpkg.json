@@ -1,7 +1,8 @@
 {
   "name": "sfml-starter",
   "version-string": "0.1.0",
-  "dependencies": [
-    "sfml"
+  "dependencies": [ "sfml" ],
+  "overrides": [
+    { "name": "sfml", "version-string": "2.6.1" }
   ]
 }
