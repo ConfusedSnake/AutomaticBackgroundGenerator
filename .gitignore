@@ -1,0 +1,15 @@
+# Build output
+/build/
+
+# vcpkg artifacts (if you clone into external/vcpkg)
+/external/vcpkg/buildtrees/
+/external/vcpkg/downloads/
+/external/vcpkg/packages/
+/external/vcpkg/installed/
+
+# IDE
+/.vscode/
+/.idea/
+
+# Tooling
+compile_commands.json
